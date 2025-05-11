@@ -16,7 +16,7 @@ This completely interactive PowerBI dashboard shows the sales analysis of Adidas
 - *Price per Unit* - Displays the average price per unit sold.
 - *Operating* - Displays the Operating Margin in percentage.
 
-#### These KPI's can be viewed based on categories like rating, genres, country, show type and release year.
+#### These KPI's can be viewed based on categories like month, date, product, region and brand.
 
 ### 2)Graphs, Charts and Map
 ![GRaph](https://github.com/user-attachments/assets/6af118ac-90b8-468f-8f8e-c2e53489de59)
