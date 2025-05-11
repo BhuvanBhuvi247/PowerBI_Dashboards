@@ -3,7 +3,7 @@
 # Amazon Prime Viewership Analysis
 
 This completely interactive PowerBI dashboard shows the viewership analysis of Amazon Prime based on different criteria. It includes Key Performance Indicators, Graphs, Charts and Map. This provides user an opportunity to analyse the viewership as per their needs.
----------------
+---------
 ## Contents 
 
 ### 1)Key Performance Indicators(KPI)
@@ -29,3 +29,8 @@ This completely interactive PowerBI dashboard shows the viewership analysis of A
 
 #### You can individually check based on each category by clicking on desired category.
 ----------
+## How to use 
+
+- Download the whole folder of the desired project to your PC
+- Make sure PowerBI is installed on your system
+- Open PowerBI file (.pbix) 
