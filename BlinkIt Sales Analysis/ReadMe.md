@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eab8f1f6-9020-42c1-a264-8f4deab5908a)![image](https://github.com/user-attachments/assets/b18d3d4e-ae57-4b16-be4f-7b7615336292)
+![image](https://github.com/user-attachments/assets/b18d3d4e-ae57-4b16-be4f-7b7615336292)
 
 # BlinkIt Sales Analysis
 
